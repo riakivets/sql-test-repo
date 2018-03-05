@@ -1,1 +1,0 @@
-CREATE TABLE direct1_1 ("COLUMN1" CLOB);
