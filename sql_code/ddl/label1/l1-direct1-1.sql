@@ -1,1 +1,0 @@
-CREATE TABLE "INTUSER"."direct1_1" ("COLUMN1" CLOB);

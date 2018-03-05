@@ -1,1 +1,0 @@
-DROP TABLE "INTUSER"."direct1_1";
