@@ -1,0 +1,1 @@
+CREATE TABLE direct1_1_replace ("COLUMN1" CLOB);
