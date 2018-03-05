@@ -1,1 +1,1 @@
-DROP TABLE "INTUSER"."direct1_1_replace1";
+DROP TABLE "INTUSER"."direct1_1";
