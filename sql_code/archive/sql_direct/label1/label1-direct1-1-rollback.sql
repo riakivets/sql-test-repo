@@ -1,1 +1,1 @@
-DROP TABLE direct1_1;
+DROP TABLE direct1_1_replace1;
