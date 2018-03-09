@@ -1,1 +1,0 @@
-DROP TABLE direct1_1_repalse3;

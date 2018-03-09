@@ -1,1 +1,0 @@
-CREATE TABLE direct1_1_repalce3 ("COLUMN1" CLOB);
