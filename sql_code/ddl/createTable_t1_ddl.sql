@@ -1,1 +1,7 @@
-CREATE TABLE "opas"."t1" ("COLUMN1" INT NOT NULL, "COLUMN2" INT, CONSTRAINT "PK_T1" PRIMARY KEY (COLUMN1));
+CREATE TABLE opas.t1(
+   ID INT PRIMARY KEY     NOT NULL,
+   NAME           TEXT    NOT NULL,
+   AGE            INT     NOT NULL,
+   ADDRESS        CHAR(50),
+   SALARY         REAL
+   );
