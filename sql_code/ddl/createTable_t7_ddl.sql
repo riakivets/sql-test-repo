@@ -1,4 +1,4 @@
-CREATE TABLE adc.t6(
+CREATE TABLE adc.t7(
    ID INT PRIMARY KEY     NOT NULL,
    NAME           TEXT    NOT NULL,
    AGE            INT     NOT NULL,
