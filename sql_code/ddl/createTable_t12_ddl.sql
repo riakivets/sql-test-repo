@@ -1,4 +1,4 @@
-CREATE TABLE ads.t11(
+CREATE TABLE ads.t12(
    ID INT PRIMARY KEY     NOT NULL,
    NAME           TEXT    NOT NULL,
    AGE            INT     NOT NULL,
