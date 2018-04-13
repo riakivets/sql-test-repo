@@ -1,4 +1,4 @@
-CREATE TABLE INTUSER.t25(
+CREATE TABLE intuser.t27(
    ID INT PRIMARY KEY     NOT NULL,
    NAME           TEXT    NOT NULL,
    AGE            INT     NOT NULL,
