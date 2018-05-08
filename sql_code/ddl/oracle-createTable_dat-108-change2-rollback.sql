@@ -1,1 +1,2 @@
-DROP TABLE "change1";
+DROP TABLE "change222";
+DROP TABLE "change111";
