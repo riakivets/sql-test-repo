@@ -1,0 +1,1 @@
+DROP TABLE "CHANGE_1";
