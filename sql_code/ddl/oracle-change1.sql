@@ -1,1 +1,0 @@
-CREATE TABLE "changeTT" ("COLUMN1" INTEGER);
