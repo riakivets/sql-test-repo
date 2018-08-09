@@ -1,1 +1,1 @@
-DISABLE TRIGGER [schema1].[trigger3]  ON [schema1].[t1]
+DISABLE TRIGGER [dbo].[trigger4]  ON [dbo].[t1]
