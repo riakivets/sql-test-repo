@@ -1,1 +1,0 @@
-DISABLE TRIGGER [dbo].[trigger2]  ON [dbo].[t1]

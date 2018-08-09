@@ -1,0 +1,1 @@
+DISABLE TRIGGER [schema1].[trigger3]  ON [schema1].[t1]
