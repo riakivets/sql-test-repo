@@ -1,0 +1,1 @@
+DISABLE TRIGGER [intuser_db].[dbo].[trigger1]  ON [intuser_db].[dbo].[t1]
