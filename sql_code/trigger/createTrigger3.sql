@@ -1,1 +1,0 @@
-DISABLE TRIGGER [dbo].[trigger4]  ON [dbo].[t1]
