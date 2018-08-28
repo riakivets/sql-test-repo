@@ -1,1 +1,0 @@
-DROP TABLE "table4_fff";
