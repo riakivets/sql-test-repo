@@ -1,0 +1,1 @@
+CREATE TABLE "table3_fff" ("COLUMN1" INTEGER);
