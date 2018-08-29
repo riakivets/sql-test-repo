@@ -1,0 +1,1 @@
+DROP TABLE "table11_fff";
