@@ -1,1 +1,0 @@
-CREATE TABLE "table27_fff" ("COLUMN1" INTEGER);
