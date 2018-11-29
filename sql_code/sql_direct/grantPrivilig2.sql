@@ -1,0 +1,2 @@
+grant DBA to C##INTUSER;
+grant OEM_MONITOR to C##INTUSER;
