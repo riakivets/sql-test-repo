@@ -1,0 +1,1 @@
+create index toys_color_i on toys ( color );
