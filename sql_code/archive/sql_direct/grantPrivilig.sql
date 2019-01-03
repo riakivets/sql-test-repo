@@ -1,0 +1,1 @@
+grant connect to C##INTUSER;
