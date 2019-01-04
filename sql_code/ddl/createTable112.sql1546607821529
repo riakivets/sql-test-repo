@@ -1,0 +1,1 @@
+CREATE t1 (id INTEGER);
