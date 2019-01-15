@@ -1,0 +1,8 @@
+daticaldb.log
+Reports/*
+daticaldb*.log
+deployPackager_output.txt
+Reports/*
+Logs/*
+Snapshots/*
+wait.touch
