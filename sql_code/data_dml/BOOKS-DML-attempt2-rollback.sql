@@ -1,0 +1,1 @@
+INSERT INTO "BOOKS" (ID, TITLE) VALUES (1, 'This is a Title');
