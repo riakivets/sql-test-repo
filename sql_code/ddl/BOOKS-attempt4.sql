@@ -1,0 +1,4 @@
+CREATE TABLE "BOOKS"
+   (    "ID" NUMBER(38,0),
+    "TITLE" VARCHAR2(128 BYTE)
+   );
