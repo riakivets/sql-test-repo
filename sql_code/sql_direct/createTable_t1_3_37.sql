@@ -1,1 +1,0 @@
-CREATE TABLE createTable_t1_3_37 ("COLUMN1" CLOB);
