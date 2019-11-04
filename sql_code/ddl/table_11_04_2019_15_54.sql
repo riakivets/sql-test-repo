@@ -1,0 +1,1 @@
+CREATE TABLE "enterprisedb"."table_11_04_2019_15_54" ("COLUMN1" TEXT);
