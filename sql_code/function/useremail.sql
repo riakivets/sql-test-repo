@@ -6,5 +6,3 @@ DECLARE @rtEmail VARCHAR
 SET @rtEmail='random@datical.com'
 RETURN @rtEmail
 END
-
-GO
