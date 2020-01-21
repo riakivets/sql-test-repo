@@ -1,2 +1,0 @@
-DROP FUNCTION INTUSER.function10;
-/
