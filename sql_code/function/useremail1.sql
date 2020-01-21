@@ -1,4 +1,4 @@
-CREATE FUNCTION [dbo].[useremail]()
+CREATE FUNCTION [dbo].[useremail1]()
 RETURNS VARCHAR(100)
 AS
 BEGIN
