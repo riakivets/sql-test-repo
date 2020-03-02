@@ -1,0 +1,1 @@
+create or replace view intuser.view4 AS select * from table1;
